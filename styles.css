@@ -1,0 +1,25 @@
+#page-title {
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+button {
+    background-color: blueviolet;
+    border: none;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 12px;
+}
+
+li a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
